@@ -21,18 +21,17 @@
 
 ## CLI 실습 기록
 - 사용한 명령어 순서:
-  git init
-  git add README.md
-  git commit -m [커밋 3회 실행]
-  git checkout -b feature/profile
-  git switch -c feature/profile
-  git remote add origin https://github.com/rjsdnd9108/git-practice
-  git push -u origin feature/profile
-- 생성한 브랜치명: feature/profile
+ 1. `git init`
+  2. `git add README.md`
+  3. `git commit -m "..."` (커밋 3회 이상 실행)
+  4. `git checkout -b feature/profile` (또는 `git switch -c feature/profile`)
+  5. `git remote add origin https://github.com/rjsdnd9108/git-practice.git`
+  6. `git push -u origin feature/profile`
+- 생성한 브랜치명: `feature/profile`
 - 커밋 메시지 3개:
-  Docs: Add README
-  README 수정: 자기소개 작성
-  README 수정: 관심분야 및 git 명령어 정리
+  - `Docs: Add README`
+  - `README 수정: 자기소개 작성`
+  - `README 수정: 관심분야 및 git 명령어 정리`
 - 어려웠던 점:
   GUI 기능으로 하면 직관적이라서 간단하게 할 수 있는 작업인데, CLI로 하니까 명령어가 익숙치 않아서 그런지 조금 시간이 걸린 것 같다.
 
