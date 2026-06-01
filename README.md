@@ -5,21 +5,19 @@
 
 ## 관심 분야
 - Web
-- Security
 - Backend
 - Frontend
-- AI 등
 
 ## Git 명령어 정리
-- git init:
-- git status:
-- git add:
-- git commit:
-- git log:
-- git branch:
-- git switch 또는 git checkout:
-- git remote:
-- git push:
+- git init: 로컬 Git 저장소를 생성하고 초기화합니다.
+- git status: 작업 디렉토리와 스테이징 영역의 상태를 확인합니다.
+- git add: 변경된 파일을 스테이징 영역(Staging Area)에 추가합니다.
+- git commit: 스테이징 영역에 있는 파일들을 메시지와 함께 로컬 저장소에 기록합니다.
+- git log: 지금까지 진행한 커밋 히스토리를 확인합니다.
+- git branch: 브랜치 목록을 확인하거나 새로운 브랜치를 생성합니다.
+- git switch 또는 git checkout: 다른 브랜치로 전환합니다.
+- git remote: 원격 저장소를 연결하고 관리합니다.
+- git push: 로컬 저장소의 커밋들을 원격 저장소(GitHub 등)로 업로드합니다.
 
 ## CLI 실습 기록
 - 사용한 명령어 순서:
