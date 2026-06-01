@@ -37,7 +37,7 @@
   GUI 기능으로 하면 직관적이라서 간단하게 할 수 있는 작업인데, CLI로 하니까 명령어가 익숙치 않아서 그런지 조금 시간이 걸린 것 같다.
 
 ## PR 실습 기록
-- PR 제목:
-- PR 링크:
-- PR에서 수정한 내용:
-- Merge 여부:
+- PR 제목: feature/profile 브랜치 내용 main 병합 요청
+- PR 링크: https://github.com/rjsdnd9108/git-practice/pull/1
+- PR에서 수정한 내용: 자기소개 / 관심 분야 및 git 명령어 정리 / CLI 실습 기록
+- Merge 여부: merge 완료
